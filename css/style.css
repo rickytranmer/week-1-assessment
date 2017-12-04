@@ -3,7 +3,8 @@ body {
     background: -webkit-linear-gradient(blue, white);
     background: -o-linear-gradient(blue, white);
     background: -moz-linear-gradient(blue, white);
-    background: linear-gradient(blue, white);
+    background: linear-gradient(blue 50%, white 50%);
+    font-family: 'Montserrat', sans-serif;
 }
 footer {
 	text-align: center;
@@ -12,8 +13,11 @@ footer {
 }
 button {
 	float: right;
-	width: 10vh;
+	width: auto;
 	height: 5vh;
+	font-weight: bold;
+	font-size: 1em;
+
 }
 footer li {
 	display: inline;
