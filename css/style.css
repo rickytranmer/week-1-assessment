@@ -1,0 +1,64 @@
+body {
+	height: 98vh;
+    background: -webkit-linear-gradient(blue, white);
+    background: -o-linear-gradient(blue, white);
+    background: -moz-linear-gradient(blue, white);
+    background: linear-gradient(blue, white);
+}
+footer {
+	text-align: center;
+	margin-top: 10vh;
+	clear: both;
+}
+button {
+	float: right;
+	width: 10vh;
+	height: 5vh;
+}
+footer li {
+	display: inline;
+	padding: 1.25vh;
+	text-transform: uppercase;
+}
+footer a {
+	text-decoration: none;
+}
+ul {
+	list-style: none;
+}
+section {
+	float: right;
+	margin: auto;
+	margin: 5vh 0;
+}
+li {
+	margin: 5vh 0;
+}
+a {
+
+}
+
+.column {
+	width: 75%
+}
+.text-bold {
+	font-weight: bold;
+}
+.net-neutrality {
+	text-decoration: line-through;
+}
+.white-box {
+	background-color: white;
+	margin-left: 40%;
+}
+.store-button {
+	margin: 0 auto;
+	text-align: center;
+}
+
+#phones {
+	float: left;
+	margin-right: 5vh;
+	width: 25%;
+	clear: left;
+}
